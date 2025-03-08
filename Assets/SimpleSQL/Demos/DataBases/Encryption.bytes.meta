@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b2b1dbcde475942c690b781ed90ffdf5
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Demos/DataBases/Encryption.bytes
+  uploadId: 648093

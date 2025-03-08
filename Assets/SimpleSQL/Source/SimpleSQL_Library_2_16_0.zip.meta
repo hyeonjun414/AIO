@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f5428cf3a3deb4a04906973116418f72
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Source/SimpleSQL_Library_2_16_0.zip
+  uploadId: 648093

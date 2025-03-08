@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c17d9cef5fd6a467d9fea3909638fdc2
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Demos/09_AttachDatabase.unity
+  uploadId: 648093

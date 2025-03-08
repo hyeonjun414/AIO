@@ -1,0 +1,40 @@
+fileFormatVersion: 2
+guid: fae49353094933f4eb15be670bebc99c
+labels:
+- table
+- sql
+- database
+- query
+- storage
+- save
+- sqlite
+- data
+- xml
+- playerprefs
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 0
+      settings: {}
+    Editor:
+      enabled: 1
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+      enabled: 0
+      settings:
+        CPU: AnyCPU
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Editor/SimpleSQL_Editor.dll
+  uploadId: 648093

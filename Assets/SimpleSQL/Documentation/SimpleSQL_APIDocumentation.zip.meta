@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4edea765861a14004ada6f9d19dd0ae6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Documentation/SimpleSQL_APIDocumentation.zip
+  uploadId: 648093

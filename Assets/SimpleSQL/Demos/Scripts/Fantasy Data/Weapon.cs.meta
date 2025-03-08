@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fea2d481a34308649b395f4b8368c6df
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Demos/Scripts/Fantasy Data/Weapon.cs
+  uploadId: 648093

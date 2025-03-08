@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 75c07e6ace008fc43a4cfd99e4b4293e
+labels:
+- table
+- sql
+- database
+- query
+- storage
+- save
+- sqlite
+- data
+- xml
+- playerprefs
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Demos/02_ComplexQuery.unity
+  uploadId: 648093

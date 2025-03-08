@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5064b5eca026844e0bd4d67c97da43f6
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Demos/DataBases/Empty.bytes
+  uploadId: 648093

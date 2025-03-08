@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 42d4bc4ff675b6641b701d508b7c3028
+timeCreated: 1527168744
+licenseType: Store
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Documentation/Changelog.txt
+  uploadId: 648093

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d3ae9f7ec596961439924abaadd14484
+timeCreated: 1519144793
+licenseType: Store
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Demos/00_MainMenu.unity
+  uploadId: 648093

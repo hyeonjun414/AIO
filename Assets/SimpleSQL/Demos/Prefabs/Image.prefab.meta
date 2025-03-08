@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c442c8d8375814ded997aca75bddb1a9
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Demos/Prefabs/Image.prefab
+  uploadId: 648093

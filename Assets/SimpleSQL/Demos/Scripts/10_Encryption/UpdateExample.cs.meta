@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0c1a07c612eea4375953402dde400a75
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Demos/Scripts/10_Encryption/UpdateExample.cs
+  uploadId: 648093

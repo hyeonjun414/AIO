@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c471745ce65c7431ab1a002e4b85c0a7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Demos/Scripts/06_SimpleTable/SimpleTable.cs
+  uploadId: 648093

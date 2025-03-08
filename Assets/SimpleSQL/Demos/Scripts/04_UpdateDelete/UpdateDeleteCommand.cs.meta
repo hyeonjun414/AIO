@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7bbf5dee74e4ca74e8c0de4beddff67c
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 3845
+  packageName: SimpleSQL
+  packageVersion: 2.16.1
+  assetPath: Assets/SimpleSQL/Demos/Scripts/04_UpdateDelete/UpdateDeleteCommand.cs
+  uploadId: 648093
