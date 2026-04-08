@@ -2,6 +2,7 @@
     "name": "Game.Framework",
     "references": [
         "Unity.Addressables",
-        "Unity.ResourceManager"
+        "Unity.ResourceManager",
+        "UnityEngine.UI"
     ]
 }
